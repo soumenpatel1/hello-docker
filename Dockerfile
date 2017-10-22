@@ -1,2 +1,2 @@
 FROM busybox:latest
-CMD echo Hello Universe
+CMD echo Hello Universe and Galaxy
